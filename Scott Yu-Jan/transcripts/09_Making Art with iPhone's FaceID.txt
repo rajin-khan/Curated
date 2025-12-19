@@ -1,0 +1,72 @@
+so one thing I've mentioned before is that I'm 
+obsessed with getting more out of the things you already own and one thing a lot of US own is an 
+iPhone. Ever since the iPhone 10 the one feature   that I've always wanted to get more out of is 
+face I mean it's a few years old now but this technology is crazy like it's not 
+unlocking your phone by seeing your face using the   front-facing camera. No, because then it wouldn't 
+work in the dark or you'll be able to fool it   with a picture but you can't because it's actually 
+using a bunch of super sophisticated sensors   in this Notch. And using an IR camera you can see that 
+Apple's true depth camera system is shooting over   30,000 infrared dots all over my face it's then 
+scanning those dots to build a mathematical model   to make sure it's me. Doing all this pretty much in 
+an instant just to unlock my phone so knowing all   this for a long time I've wanted to turn my iPhone 
+into a high quality 3D scanner and even though   there are a lot of photogrammetry 3D scanning 
+apps out there there are only a few that actually   utilize iPhone's IR sensors for more detailed 3D 
+scanning. They all kind of vary in terms of quality   and functionality but they're all pretty fun 
+and the one that really got my attention is this   one called Heges... Hyges? Higgys? Anyway, it produces 
+super detailed scans but I don't know if I'm using   the app wrong or maybe my phone's too old but 
+sometimes the scans would turn out super glitchy   I love how these look but I don't want to just 
+take selfies all day.   I want to use this technique in a photo shoot  but here's the problem: let's say I invite over a model. In order to 3D Scan them I'd have to hold the phone in a way where I can see 
+what's going on on the screen while trying to scan them. It would be very... awkward, yeah and technically 
+speaking some iPhones have a lidar on the back of them which can be used for 3D scanning 
+but the quality and resolution of the lidar scanner is just garbage compared to the FaceID sensors. So here's what I'm gonna have to do I'm going to use this camera monitor, with 
+a Lightning to HDMI adapter to mirror the iPhone's display So the reason I'm using these 
+camera monitors is because they have two very important features.  Once it's mirroring the 
+iPhone screen they allow you to zoom in and   mirror the screen since the face ID sensors are 
+facing the opposite direction And lastly, I'm going to try to use this magsafe phone holder 
+so the iPhone can be easily removable. so this is the hard part I need to 
+design something to hold all these objects together  now the easiest way to approach   something complex like this is to just 
+Frankenstein the objects together first   now that the general form is defined 
+I can grab some rough measurements   and then move on to detailed drawings   and now move to the digital side... this is kind of the boring part the only noteworthy thing here is that I added these tabs to some of the corners
+to help with better adhesion during 3D printing now let's get back to the more interesting stuff I came across this ribbon HDMI cable 
+that's super thin and it's perfect   because this way I can actually 
+run it through the handle like so okay so now I just 
+need someone to model for me Andrea: Hey! Scott: What the Andrea?! so the quality of the scans ranged from pretty cool 
+to PlayStation 2 and NPCs and just surreal we also experimented with colored lighting   and then Andrea's partner Cory 
+ended up joining for a few scans too after a painstaking amount of photoshopping, I turned a few of my favorite scans into posters and got them framed for   my apartment. I went to a local FedEx office to 
+get this done and the wildest thing happened. You see, when you get a poster this big done 
+with FedEx they'll print out a form for you   to sign. The form will have a small preview of 
+what your poster will look like and it's for   you to check that the colors and everything 
+look good before they run the actual print   it's called an oversized proof approval 
+form and what happened was the very nice lady at FedEx accidentally printed out this 
+form in the size of the actual poster after I signed it they actually let me keep it so I 
+obviously had to frame and put that up too   anyway I ended up finding a supplier that makes 
+really nice quality framed prints, so if you want   to own one of these and support my channel check 
+out my store links below. I'll also be selling   puzzles of these as well they'll come in either 
+520 pieces which took me a few days to complete   or 252 pieces which took my dad just a few hours.
+Okay! Thank you to Andrea and Cory for letting me   shoot with them check out their Instagrams link 
+below they're both so cool and creative and I   had so much fun working with them I had a lot of 
+fun working on this project in general and I think   it's because it kind of combines my passions for 
+both Art and Design I learned so much working with   this 3D scanner and I feel so satisfied with both 
+the design and art outcomes from this project  I might do more videos like this where I challenge 
+myself to design tools for making art I don't know... Maybe. Let me know if you guys would be into 
+that and if you've been following my Instagram   you would know that I've been messing around with 
+this project for a few years now actually and the   Heges app has actually been updated a few times 
+since I started. It doesn't actually glitch out as   much as it used to for better or worse but it's 
+honestly a pretty amazing app shout out to the   people who made it this project wouldn't have 
+been possible without you I love this just as   a portable 3D scanner now that only occasionally 
+glitches and on another note another approach to   this design would have been to actually actually 
+use a mirror to reflect the face ID sensors   forward there's a few designs for this online 
+and the only reason I didn't end up doing that   and I went with this rig was just because having 
+the screen's angle adjustable made scanning a bit   more ergonomic to use but if you want to give this 
+project a go with a more straightforward design   and cheaper setup definitely check out the other 
+designs I'll leave a few links to those below   along with the design for this. one thing I forgot 
+to mention about this design is that actually   embedded magnets inside the handle as well and the 
+reason is because if I ever use the camera monitor   elsewhere the HDMI cable won't have to dangle 
+around and it can be secured right here at the top   and final thing huge thank you to everyone 
+who bought one of my IDIM hats and sent   me photos these photos made me so happy so 
+thank you guys so much for sending them in   and I want to thank the donators too this time 
+we have Chris from station level Zero, sweet   Etsy Shop man Kian Dowd and Thiago de vita again 
+thank you both for the continuous support Ricardo   Rue from Germany thank you ibang Taiwan and thank 
+you Shaggy historian do I Blankenship I'm glad you   find my videos helpful Joseph Ransom thank you for 
+the kind words Christopher Delvin Jessica Smithson   and Leandro Toledo thank you to the anonymous 
+donators too as well I see you and thank you   all so much for supporting my work and uh that's 
+pretty much everything thanks for watching
