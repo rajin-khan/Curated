@@ -29,7 +29,7 @@ CURATED/
 <table>
 <tr>
 <td width="50%" align="center">
-<a href="./published/curated-001.pdf">
+<a href="https://www.rajinkhan.com/newsletters/curated-001.pdf">
 <img src="./published/curated-001-preview.jpg" alt="Issue 001 Preview" style="width: 100%;">
 </a>
 
